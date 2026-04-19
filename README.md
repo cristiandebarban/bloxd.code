@@ -1,2 +1,2 @@
 # bloxd.code
-her are bloxd.io codes
+here are bloxd.io codes
